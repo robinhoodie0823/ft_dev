@@ -4912,6 +4912,26 @@
         "semantic": "enabled"
       },
       "group": "Group2"
+    },
+    {
+      "id": "c91cff45f48bf16c00717aa92fa8654567c99a75",
+      "name": "Test5",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "source",
+        "switch": "enabled"
+      },
+      "group": "Group2"
+    },
+    {
+      "id": "03a0e42dbf9a8f778172b2993fc7e6ccb136b43f",
+      "name": "Test6",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "source",
+        "tag-rename": "enabled"
+      },
+      "group": "Group2"
     }
   ],
   "$metadata": {
