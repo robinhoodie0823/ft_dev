@@ -62,14 +62,6 @@
       "4": {
         "value": "5",
         "type": "borderWidth"
-      },
-      "5": {
-        "value": "6",
-        "type": "borderWidth"
-      },
-      "6": {
-        "value": "7",
-        "type": "borderWidth"
       }
     },
     "color": {
@@ -1405,6 +1397,10 @@
         "value": "1",
         "type": "sizing"
       },
+      "wertr": {
+        "value": "12",
+        "type": "sizing"
+      },
       "eeee": {
         "value": "12",
         "type": "sizing"
@@ -1552,6 +1548,10 @@
         "type": "spacing"
       }
     },
+    "asdf": {
+      "value": "asdf",
+      "type": "sizing"
+    },
     "typodgraphy": {
       "headlines": {
         "small": {
@@ -1611,10 +1611,6 @@
         "property": "fill",
         "value": "color.slate.200"
       }
-    },
-    "new": {
-      "value": "12",
-      "type": "spacing"
     }
   },
   "divider": {
@@ -4878,7 +4874,7 @@
   },
   "$themes": [
     {
-      "id": "7bfebf67494d38ad69c528884650bf2be2c5cae7",
+      "id": "fea347c078ce0e332a5449e1aaac21e21037426d",
       "name": "Test1",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
@@ -4888,7 +4884,7 @@
       "group": "Group1"
     },
     {
-      "id": "0cb03d6af814c1307bdc6d53d226bf596a41a917",
+      "id": "6bcdde41d4972e7df79d6b2d102fbbb2ed2a137a",
       "name": "Test2",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
@@ -4896,16 +4892,6 @@
         "menu-item-re": "enabled"
       },
       "group": "Group2"
-    },
-    {
-      "id": "409c3076fa825980a65c3ed72c0157b4da098b7d",
-      "name": "Test3",
-      "$figmaStyleReferences": {},
-      "selectedTokenSets": {
-        "core": "source",
-        "radio": "enabled"
-      },
-      "group": "Group1"
     }
   ],
   "$metadata": {
