@@ -4902,6 +4902,16 @@
         "radio": "enabled"
       },
       "group": "Group1"
+    },
+    {
+      "id": "d61f0afdcd3116009ee93c5c54b8f80324e8752e",
+      "name": "Test4",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "source",
+        "semantic": "enabled"
+      },
+      "group": "Group2"
     }
   ],
   "$metadata": {
