@@ -4892,6 +4892,16 @@
         "menu-item-re": "enabled"
       },
       "group": "Group2"
+    },
+    {
+      "id": "fd0d7211063ac76cec255824a87e6dbe0ab614a0",
+      "name": "Test3",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "source",
+        "radio": "enabled"
+      },
+      "group": "Group1"
     }
   ],
   "$metadata": {
