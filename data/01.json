@@ -4876,7 +4876,38 @@
       }
     }
   },
-  "$themes": [],
+  "$themes": [
+    {
+      "id": "7bfebf67494d38ad69c528884650bf2be2c5cae7",
+      "name": "Test1",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "source",
+        "divider": "enabled"
+      },
+      "group": "Group1"
+    },
+    {
+      "id": "0cb03d6af814c1307bdc6d53d226bf596a41a917",
+      "name": "Test2",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "source",
+        "menu-item-re": "enabled"
+      },
+      "group": "Group2"
+    },
+    {
+      "id": "409c3076fa825980a65c3ed72c0157b4da098b7d",
+      "name": "Test3",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "source",
+        "radio": "enabled"
+      },
+      "group": "Group1"
+    }
+  ],
   "$metadata": {
     "tokenSetOrder": [
       "core",
