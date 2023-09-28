@@ -4932,6 +4932,16 @@
         "tag-rename": "enabled"
       },
       "group": "Group2"
+    },
+    {
+      "id": "228a730be999919820e47b80506ed27add48b426",
+      "name": "Test7",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "source",
+        "text-field": "enabled"
+      },
+      "group": "Group1"
     }
   ],
   "$metadata": {
